@@ -29,6 +29,7 @@ Download these but if theres an error do download the other files (actually i do
 This Source includes KdMapper made by The CURZ - https://github.com/TheCruZ/kdmapper
 
 The Driver Source is created by NullTerminator, Subscribe to him - https://www.youtube.com/c/NullTerminator
+(The source is probably Detected so Change the Signature and the assembly opcode, will make a tutorial on how to change that too)
 
 The UserMode is Made By Ascarre so Go, Join and Support My Telegram Channel - https://t.me/ascarrehacks
 
