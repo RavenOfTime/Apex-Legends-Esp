@@ -10,12 +10,27 @@ Now for those who doesnt play Apex-Legends and want to make esp for their own ga
 
 Remember you CANNOT play your game on full screen as this is an external cheat.
 
-ENJOY GUYS!!
+#How to Build This?
+1. Download Visual Studios
+2. Download WDK and SDK for Windows 10 or 11 or any version required (Official Microsoft Website holds the Required files)
+3. Download Visual Studio Components - 
+  Under Desktop and Mobile Tab
+   - Desktop Development with C++ 
+        - MSVC C++ 
+        - C++/CLI Module
+        - MFSC/C++ Module
+   - Universal Windows Platform Development
+   - .Net Desktop Development
 
-Contributors -:
+Download these but if theres an error do download the other files (actually i dont remember which files to download exactly, lol)
+
+# Contributors -:
 
 This Source includes KdMapper made by The CURZ - https://github.com/TheCruZ/kdmapper
 
 The Driver Source is created by NullTerminator, Subscribe to him - https://www.youtube.com/c/NullTerminator
 
 The UserMode is Made By Ascarre so Go, Join and Support My Telegram Channel - https://t.me/ascarrehacks
+
+
+ENJOY GUYS!!
