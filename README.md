@@ -12,4 +12,10 @@ Remember you CANNOT play your game on full screen as this is an external cheat.
 
 ENJOY GUYS!!
 
-join my Channel - https://t.me/ascarrehacks
+Contributors -:
+
+This Source includes KdMapper made by The CURZ - https://github.com/TheCruZ/kdmapper
+
+The Driver Source is created by NullTerminator, Subscribe to him - https://www.youtube.com/c/NullTerminator
+
+The UserMode is Made By Ascarre so Go, Join and Support My Telegram Channel - https://t.me/ascarrehacks
